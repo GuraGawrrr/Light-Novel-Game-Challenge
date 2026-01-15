@@ -1,0 +1,2 @@
+# Light Novel Game Challenge
+
